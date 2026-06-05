@@ -9,9 +9,9 @@ I'm passionate about **leveraging data analytics** to drive **business insights,
 :mortar_board: Graduated with a Management and Leadership Certificate, Post Graduation Diploma in Data Analytics, and a Bachelor’s in Electronics and Instrumentation Engineering. 🎓
 
 ## Top Repositories :notebook:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&theme=dark&hide_border=true&repo=AESO-ENERGY-CONSUMPTION-ANALYSIS)](https://github.com/prajwalnagaraj-web/AESO-ENERGY-CONSUMPTION-ANALYSIS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&theme=dark&hide_border=true&repo=Calgary-Housing-Market-Analysis-2023)](https://github.com/prajwalnagaraj-web/Calgary-Housing-Market-Analysis-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&theme=dark&hide_border=true&repo=NYPD-Stop-Question-and-Frisk)](https://github.com/prajwalnagaraj-web/NYPD-Stop-Question-and-Frisk)
+[![Readme Card](https://prajwal-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&theme=dark&hide_border=true&repo=AESO-ENERGY-CONSUMPTION-ANALYSIS)](https://github.com/prajwalnagaraj-web/AESO-ENERGY-CONSUMPTION-ANALYSIS)
+[![Readme Card](https://prajwal-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&theme=dark&hide_border=true&repo=Calgary-Housing-Market-Analysis-2023)](https://github.com/prajwalnagaraj-web/Calgary-Housing-Market-Analysis-2023)
+[![Readme Card](https://prajwal-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&theme=dark&hide_border=true&repo=NYPD-Stop-Question-and-Frisk)](https://github.com/prajwalnagaraj-web/NYPD-Stop-Question-and-Frisk)
 
 ## IDE :computer:
 [![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff) ![](https://img.shields.io/badge/Jupyter-Notebook?style=for-the-badge&logo=jupyter&color=grey) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/prajwalnagaraj-web)
@@ -23,7 +23,7 @@ I'm passionate about **leveraging data analytics** to drive **business insights,
 [![](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&) ![](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white) ![](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff) ![](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff) ![](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://github.com/prajwalnagaraj-web)
 
 ## Github Analytics
-[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalnagaraj-web&layout=compact&theme=dark&hide_border=true"/>](https://github.com/prajwalnagaraj-web)
+[<img height="180em" src="https://prajwal-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&layout=compact&theme=dark&hide_border=true"/>](https://github.com/prajwalnagaraj-web)
 
 ## Portfolio Website
 [![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://prajwalnagaraj-web.github.io/)
