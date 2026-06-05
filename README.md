@@ -28,7 +28,7 @@ Driven by **curiosity** and a passion for **building**. I enjoy exploring **new 
 ![](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white) 
 ![](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff) 
 ![](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff) 
-![](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)]![](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)(https://github.com/prajwalnagaraj-web)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)![](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)](https://github.com/prajwalnagaraj-web)
 
 
 ## Github Analytics
