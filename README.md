@@ -23,7 +23,7 @@ I'm passionate about **leveraging data analytics** to drive **business insights,
 [![](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&) ![](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white) ![](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff) ![](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff) ![](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://github.com/prajwalnagaraj-web)
 
 ## Github Analytics
-[<img height="180em" src="https://prajwal-readme-stats.vercel.app/api/pin/?username=prajwalnagaraj-web&layout=compact&theme=dark&hide_border=true"/>](https://github.com/prajwalnagaraj-web)
+[<img height="180em" src="https://prajwal-readme-stats.vercel.app/api/top-langs/?username=prajwalnagaraj-web&layout=compact&theme=dark&hide_border=true"/>](https://github.com/prajwalnagaraj-web)
 
 ## Portfolio Website
 [![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://prajwalnagaraj-web.github.io/)
